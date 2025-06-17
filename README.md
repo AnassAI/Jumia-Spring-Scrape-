@@ -1,6 +1,6 @@
 # 🛒 Jumia Spring Scraper
 
-A Java Spring-based web scraping application that extracts product data from [Jumia.ma](https://www.jumia.ma) using **Jsoup** and follows a clean architecture with MVC, DAO, and service layers.
+A Java Spring-based web scraping application that extracts product data from [Jumia.ma](https://www.jumia.ma) using **Jsoup** and follows a clean architecture with MVC.
 
 ---
 
